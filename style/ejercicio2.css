@@ -1,0 +1,20 @@
+.texto-blanco {
+    color: white;
+}
+
+.bg-negro {
+    background-color: black ;
+}
+
+.bg-azul {
+    background-color: lightskyblue;
+}
+
+.bg-naranja {
+    background-color: orange;
+}
+
+img {
+    max-height: 200px;
+
+}
